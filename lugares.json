@@ -1,0 +1,128 @@
+[
+  {
+    "nombre": "Real Alcázar de Sevilla",
+    "descripcion": "Complejo de palacios rodeados por una muralla, conocido por su arquitectura mudéjar y sus bellos jardines.",
+    "ubicacion": "Centro histórico, Sevilla",
+    "fecha_construccion": 1366,
+    "horario": "09:30 - 17:00",
+    "telefono": "+34 954 50 23 24",
+    "total_visitas": 500000
+  },
+  {
+    "nombre": "La Giralda",
+    "descripcion": "El campanario de la Catedral de Sevilla, originalmente construido como minarete de la mezquita almohade.",
+    "ubicacion": "Centro histórico, Sevilla",
+    "fecha_construccion": 1184,
+    "horario": "11:00 - 17:00",
+    "telefono": "+34 954 21 49 71",
+    "total_visitas": 1000000
+  },
+  {
+    "nombre": "Catedral de Sevilla",
+    "descripcion": "Impresionante catedral gótica construida sobre los restos de una mezquita almohade, famosa por su campanario, La Giralda.",
+    "ubicacion": "Centro histórico, Sevilla",
+    "fecha_construccion": 1401,
+    "horario": "11:00 - 17:00",
+    "telefono": "+34 902 09 96 92",
+    "total_visitas": 600000
+  },
+  {
+    "nombre": "Plaza de España",
+    "descripcion": "Impresionante plaza pública construida para la Exposición Iberoamericana de 1929, adornada con azulejos y fuentes decorativas.",
+    "ubicacion": "Parque de María Luisa, Sevilla",
+    "fecha_construccion": 1928,
+    "horario": "Siempre abierto",
+    "telefono": null,
+    "total_visitas": 700000
+  },
+  {
+    "nombre": "Torre del Oro",
+    "descripcion": "Antigua torre militar de origen almohade, famosa por su arquitectura única y sus vistas panorámicas de la ciudad y el río Guadalquivir.",
+    "ubicacion": "Paseo de Cristóbal Colón, Sevilla",
+    "fecha_construccion": 1220,
+    "horario": "09:30 - 18:45",
+    "telefono": "+34 954 22 24 19",
+    "total_visitas": 400000
+  },
+  {
+    "nombre": "Barrio de Santa Cruz",
+    "descripcion": "Encantador barrio medieval en el corazón de Sevilla, conocido por sus estrechas calles empedradas y sus patios llenos de flores.",
+    "ubicacion": "Centro histórico, Sevilla",
+    "fecha_construccion": 1248,
+    "horario": "Siempre abierto",
+    "telefono": null,
+    "total_visitas": 400000
+  },
+  {
+    "nombre": "Metropol Parasol",
+    "descripcion": "Estructura moderna de madera en forma de setas que ofrece impresionantes vistas de la ciudad, también conocida como 'Las Setas de Sevilla'.",
+    "ubicacion": "Plaza de la Encarnación, Sevilla",
+    "fecha_construccion": 2011,
+    "horario": "10:00 - 22:30",
+    "telefono": "+34 902 10 81 81",
+    "total_visitas": 800000
+  },
+  {
+    "nombre": "Archivo de Indias",
+    "descripcion": "Edificio histórico que alberga una extensa colección de documentos relacionados con la historia de América y las colonias españolas.",
+    "ubicacion": "Centro histórico, Sevilla",
+    "fecha_construccion": 1584,
+    "horario": "09:00 - 15:00",
+    "telefono": "+34 954 50 05 28",
+    "total_visitas": 300000
+  },
+  {
+    "nombre": "Hospital de los Venerables",
+    "descripcion": "Antiguo hospital barroco convertido en centro cultural y museo, alberga una importante colección de arte barroco.",
+    "ubicacion": "Plaza de los Venerables, Sevilla",
+    "fecha_construccion": 1675,
+    "horario": "10:00 - 18:00",
+    "telefono": "+34 954 56 23 95",
+    "total_visitas": 200000
+  },
+  {
+    "nombre": "Parque de María Luisa",
+    "descripcion": "Principal parque público de Sevilla, famoso por sus hermosos jardines, zonas verdes y lago.",
+    "ubicacion": "Parque de María Luisa, Sevilla",
+    "fecha_construccion": 1914,
+    "horario": "Siempre abierto",
+    "telefono": null,
+    "total_visitas": 900000
+  },
+  {
+    "nombre": "Puente de Triana",
+    "descripcion": "Puente histórico que cruza el río Guadalquivir y conecta el barrio de Triana con el centro de Sevilla.",
+    "ubicacion": "Barrio de Triana, Sevilla",
+    "fecha_construccion": 1852,
+    "horario": "Siempre abierto",
+    "telefono": null,
+    "total_visitas": 300000
+  },
+  {
+    "nombre": "Museo de Bellas Artes de Sevilla",
+    "descripcion": "Museo de arte situado en un antiguo convento del siglo XVII, conocido por su extensa colección de pinturas y esculturas.",
+    "ubicacion": "Centro histórico, Sevilla",
+    "fecha_construccion": 1835,
+    "horario": "09:00 - 20:00",
+    "telefono": "+34 955 54 90 00",
+    "total_visitas": 350000
+  },
+  {
+    "nombre": "Casa de Pilatos",
+    "descripcion": "La Casa de Pilatos es un palacio conocido por su mezcla de estilos renacentista italiano y mudéjar español. Es la residencia de la familia ducal de Medinaceli.",
+    "ubicacion": "Centro histórico, Sevilla",
+    "fecha_construccion": 1483,
+    "horario": "09:00 - 19:00",
+    "telefono": "+34 954 22 52 98",
+    "total_visitas": 300000
+  },
+  {
+    "nombre": "Museo del Baile Flamenco",
+    "descripcion": "Museo dedicado al arte del flamenco, con exposiciones interactivas, espectáculos en vivo y clases de baile.",
+    "ubicacion": "Calle Manuel Rojas Marcos, Sevilla",
+    "fecha_construccion": 2006,
+    "horario": "10:00 - 19:00",
+    "telefono": "+34 954 34 03 11",
+    "total_visitas": 200000
+  }
+]

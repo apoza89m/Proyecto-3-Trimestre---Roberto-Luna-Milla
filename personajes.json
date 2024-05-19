@@ -1,0 +1,77 @@
+[
+  {
+    "nombre": "Cristóbal Colón",
+    "biografia": "Cristóbal Colón fue un navegante, cartógrafo, almirante, virrey y gobernador general de las Indias Occidentales al servicio de la Corona de Castilla.",
+    "epoca": "Edad Moderna",
+    "anyo_nacimiento": 1451,
+    "anyo_muerte": 1506,
+    "lugar_nacimiento": "Génova, Italia",
+    "eventos_destacados": [
+      {
+        "nombre": "Descubrimiento de América"
+      }
+    ]
+  },
+  {
+    "nombre": "Gustavo Adolfo Bécquer",
+    "biografia": "Gustavo Adolfo Bécquer fue un poeta y narrador español, perteneciente al movimiento del Romanticismo.",
+    "epoca": "Siglo XIX",
+    "anyo_nacimiento": 1836,
+    "anyo_muerte": 1870,
+    "lugar_nacimiento": "Sevilla, España",
+    "eventos_destacados": []
+  },
+  {
+    "nombre": "Fernando III de Castilla",
+    "biografia": "Rey de Castilla y León desde 1217 hasta su muerte, protagonista de la Reconquista.",
+    "epoca": "Edad Media",
+    "anyo_nacimiento": 1199,
+    "anyo_muerte": 1252,
+    "lugar_nacimiento": "Sierra Morena, España",
+    "eventos_destacados": [
+      {
+        "nombre": "Conquista de Sevilla por Fernando III"
+      }
+    ]
+  },
+  {
+    "nombre": "Diego Velázquez",
+    "biografia": "Pintor barroco español considerado uno de los máximos exponentes de la pintura española y universal.",
+    "epoca": "Edad Moderna",
+    "anyo_nacimiento": 1599,
+    "anyo_muerte": 1660,
+    "lugar_nacimiento": "Sevilla, España",
+    "eventos_destacados": [
+      {
+        "nombre": "Primera Exposición de Diego Velázquez"
+      }
+    ]
+  },
+  {
+    "nombre": "Bartolomé Esteban Murillo",
+    "biografia": "Murillo fue un pintor español del siglo XVII, famoso por sus obras religiosas y escenas de la vida cotidiana sevillana.",
+    "epoca": "Edad Moderna",
+    "anyo_nacimiento": 1617,
+    "anyo_muerte": 1682,
+    "lugar_nacimiento": "Sevilla, España",
+    "eventos_destacados": []
+  },
+  {
+    "nombre": "Luis Cernuda",
+    "biografia": "Luis Cernuda fue un poeta español, miembro de la Generación del 27, conocido por su obra lírica y su influencia en la poesía contemporánea.",
+    "epoca": "Edad Contemporánea",
+    "anyo_nacimiento": 1902,
+    "anyo_muerte": 1963,
+    "lugar_nacimiento": "Sevilla, España",
+    "eventos_destacados": []
+  },
+  {
+    "nombre": "Antonio Machado",
+    "biografia": "Antonio Machado fue un poeta español, uno de los más representativos de la Generación del 98.",
+    "epoca": "Edad Contemporánea",
+    "anyo_nacimiento": 1875,
+    "anyo_muerte": 1939,
+    "lugar_nacimiento": "Sevilla, España",
+    "eventos_destacados": []
+  }
+]

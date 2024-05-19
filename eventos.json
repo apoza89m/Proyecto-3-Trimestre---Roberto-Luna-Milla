@@ -1,0 +1,174 @@
+[
+  {
+    "nombre": "Descubrimiento de América",
+    "fecha": [
+      {
+        "epoca": "Edad Moderna",
+        "siglo": "XV"
+      }
+    ],
+    "descripcion": "El Descubrimiento de América es el término utilizado para describir la llegada a América de un grupo de expediciones españolas dirigidas por Cristóbal Colón en el siglo XV.",
+    "lugar": {
+      "nombre": "Puerto de Palos de la Frontera"
+    },
+    "participantes": [
+      {
+        "nombre": "Cristóbal Colón"
+      }
+    ]
+  },
+  {
+    "nombre": "La Primera Vuelta al Mundo",
+    "fecha": {
+      "epoca": "Edad Moderna",
+      "siglo": "XVI"
+    },
+    "descripcion": "La expedición liderada por Fernando de Magallanes y Juan Sebastián Elcano que logró circunnavegar la Tierra entre 1519 y 1522.",
+    "lugar": {
+      "nombre": "Puerto de Sevilla"
+    },
+    "participantes": [
+      {
+        "nombre": "Fernando de Magallanes"
+      },
+      {
+        "nombre": "Juan Sebastián Elcano"
+      }
+    ]
+  },
+  {
+    "nombre": "Exposición Iberoamericana de 1929",
+    "fecha": [
+      {
+        "epoca": "Edad Contemporánea",
+        "siglo": "XX"
+      }
+    ],
+    "descripcion": "La Exposición Iberoamericana de Sevilla fue una exposición internacional que se celebró en 1929 en la ciudad de Sevilla, con motivo del tercer centenario del descubrimiento de América.",
+    "lugar": {
+      "nombre": "Plaza de España"
+    },
+    "participantes": [
+      {
+        "nombre": "Alfonso XIII de España"
+      }
+    ]
+  },
+  {
+    "nombre": "Feria de Abril",
+    "fecha": [
+      {
+        "epoca": "Industrialización",
+        "siglo": "XIX"
+      }
+    ],
+    "descripcion": "La Feria de Abril es una fiesta que se celebra anualmente en Sevilla, Andalucía, España, que tiene lugar una o dos semanas después de la Semana Santa.",
+    "lugar": {
+      "nombre": "Real de la Feria"
+    },
+    "participantes": []
+  },
+  {
+    "nombre": "Exposición Universal de Sevilla 1992",
+    "fecha": [
+      {
+        "epoca": "Edad Contemporánea",
+        "siglo": "XX"
+      }
+    ],
+    "descripcion": "La Exposición Universal de Sevilla, celebrada en 1992, fue la primera Exposición Universal que se celebró en España y la segunda en un país de habla hispana.",
+    "lugar": {
+      "nombre": "Isla de la Cartuja"
+    },
+    "participantes": []
+  },
+  {
+    "nombre": "Conquista de Sevilla por Fernando III",
+    "fecha": [
+      {
+        "epoca": "Edad Media",
+        "siglo": "XIII"
+      }
+    ],
+    "descripcion": "La Conquista de Sevilla por Fernando III de Castilla tuvo lugar en el año 1248, culminando la conquista cristiana del Reino de Sevilla.",
+    "lugar": {
+      "nombre": "Centro histórico"
+    },
+    "participantes": [
+      {
+        "nombre": "Fernando III de Castilla"
+      },
+      {
+        "nombre": "Alfonso X el Sabio"
+      }
+    ]
+  },
+  {
+    "nombre": "Fundación de Sevilla por los Romanos",
+    "fecha": [
+      {
+        "epoca": "Antigüedad",
+        "siglo": "II a.C."
+      }
+    ],
+    "descripcion": "La Fundación de Sevilla por los Romanos se remonta al siglo II a.C., cuando la ciudad fue establecida como colonia romana bajo el nombre de 'Hispalis'.",
+    "lugar": {
+      "nombre": "Sevilla"
+    },
+    "participantes": [
+      {
+        "nombre": "Romanos"
+      }
+    ]
+  },
+  {
+    "nombre": "La Revolución de 1868",
+    "fecha": {
+      "epoca": "Industrialización",
+      "siglo": "XIX"
+    },
+    "descripcion": "Un levantamiento que derrocó a la reina Isabel II y marcó el inicio de la Primera República Española.",
+    "lugar": {
+      "nombre": "Plaza de la Encarnación"
+    },
+    "participantes": [
+      {
+        "nombre": "Isabel II"
+      }
+    ]
+  },
+  {
+    "nombre": "La Semana Santa de Sevilla",
+    "fecha": {
+      "epoca": "Edad Media",
+      "siglo": "XIII"
+    },
+    "descripcion": "Una de las celebraciones religiosas más importantes de la ciudad, con procesiones solemnes y pasos de Semana Santa.",
+    "lugar": {
+      "nombre": "Centro histórico"
+    },
+    "participantes": [
+      {
+        "nombre": "Hermandades y cofradías"
+      }
+    ]
+  },
+  {
+    "nombre": "Primera Exposición de Diego Velázquez",
+    "fecha": [
+      {
+        "epoca": "Siglo XVII",
+        "siglo": "XVII"
+      }
+    ],
+    "descripcion": "Primera exposición pública de las obras de Diego Velázquez, destacando su talento en el barroco español.",
+    "lugar": {
+      "nombre": "Casa de Pilatos"
+    },
+    "participantes": [
+      {
+        "nombre": "Diego Velázquez"
+      }
+    ]
+  }
+]
